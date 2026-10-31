@@ -1,0 +1,5 @@
+# Install after requirements-training.txt, using the PyPI index.
+--index-url https://pypi.org/simple
+transformers==4.57.6
+huggingface-hub==0.36.2
+safetensors==0.8.0
